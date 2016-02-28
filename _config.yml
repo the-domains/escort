@@ -1,0 +1,28 @@
+name: 'Escort '
+favicon: null
+layout_spectrum: 0.6146823961753398
+typography_spectrum: 0.11310955020599067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8137838563416153
+  lightness: 0.26522917370311916
+  saturation: 0.7431178928818554
+  rhythmicContrast: 0.7955667842179537
+purpose: []
